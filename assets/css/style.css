@@ -102,7 +102,7 @@
   position: absolute;
   right: 0;
   top: 0;
-  bottom: 16px;
+  bottom: 0px;
   left: 16px;
   -webkit-transition: all 0.3s;
   -moz-transition: all 0.3s;
@@ -139,8 +139,8 @@
   top: 100%;
   right: 30px;
   left: 30px;
-  bottom: 54px;
-  overflow: hidden;
+  bottom: 1px;
+  overflow: visible;
   opacity: 0;
   filter: alpha(opacity=0);
   -webkit-transition: all 1.2s;
